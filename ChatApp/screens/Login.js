@@ -42,7 +42,9 @@ const styles = StyleSheet.create({
     },
     button: {
         alignSelf: 'flex-start',
-        width: 10,
+        width: 200,
+
+        display: 'block',
         marginTop: 10
     }
 });
